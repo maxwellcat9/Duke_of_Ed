@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\truff\\Documents\\GitHub\\Duke_of_Ed_CPP_Project_Maxwell\\basic_cpp\\Hello_World!\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6439985B-7FB6-47DD-A24F-4110379934D5}|Hello_World!\\Hello_World!.vcxproj|C:\\Users\\truff\\Documents\\GitHub\\Duke_of_Ed_CPP_Project_Maxwell\\basic_cpp\\Hello_World!\\Hello_World!\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6439985B-7FB6-47DD-A24F-4110379934D5}|Hello_World!\\Hello_World!.vcxproj|solutionrelative:Hello_World!\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\truff\\Documents\\GitHub\\Duke_of_Ed_CPP_Project_Maxwell\\basic_cpp\\Hello_World!\\Hello_World!\\Main.cpp",
+              "RelativeDocumentMoniker": "Hello_World!\\Main.cpp",
+              "ToolTip": "C:\\Users\\truff\\Documents\\GitHub\\Duke_of_Ed_CPP_Project_Maxwell\\basic_cpp\\Hello_World!\\Hello_World!\\Main.cpp",
+              "RelativeToolTip": "Hello_World!\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-14T06:18:39.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
